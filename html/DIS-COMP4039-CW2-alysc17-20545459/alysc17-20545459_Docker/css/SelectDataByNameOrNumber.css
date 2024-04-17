@@ -1,0 +1,58 @@
+body {
+    display: flex;
+    justify-content: center; /*在容器中央对齐弹性项目*/
+    align-items: center;
+    width: 100%;
+    min-height: 100vh;
+    background-image:url(../images/22.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+.select-box{
+    display: flex;
+    justify-content: center;  /*居中排列*/
+    align-content:space-around;
+    flex-wrap: wrap; 
+    width: 300px;
+    height: 300px;
+    background-color: rgba(0, 0, 0,.4);
+    border: 10px;
+    padding: 20px 50px;
+    border-radius: 20px;
+}
+h4{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.select-box .button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6px;
+    width: 145px;
+    height: 30px;
+    color: #fff;
+    background: linear-gradient(120deg,#a6c0fe 0%, #2E8B57 100%);
+    border-radius: 25px;
+    cursor: pointer;}
+
+    table {
+        background-color: #f0f0f0;
+    }
+    .back{
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        bottom: 700px;
+        right: 1400px;
+        margin: auto;
+    }
+

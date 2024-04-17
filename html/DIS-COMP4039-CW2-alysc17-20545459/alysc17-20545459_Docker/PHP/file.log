@@ -1,0 +1,3 @@
+
+[2023-12-04T00:58:02.427386+00:00] my_logger.INFO: Adding a new user {"username":"cr"} []
+[2023-12-04T00:58:11.299778+00:00] my_logger.INFO: Adding a new user {"username":"cr"} []

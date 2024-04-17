@@ -1,0 +1,75 @@
+.cen .bb{
+    position: relative;
+    background-color: #ffffff;
+	border:2px solid #008cba;
+    border-radius:8px;
+    font-size: 18px;
+    color:  #6B4226 ;
+    padding: 10px 20px;
+    margin: 4px 2px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    width: 19%;
+    height: 500px;
+        }
+
+ 
+.cen button:hover {
+  background-color:  #8FBC8F  ;
+}
+button:hover {
+    background-color:  #30e6dd  ;
+  }
+
+.cen{
+    position: absolute;
+        left: 30px;
+        top: 20%;
+        bottom: 0;
+        right: 0;
+        margin: auto;
+}
+.butt{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 1400px;
+    top: 0px;
+    bottom: 700px;
+    right: 0;
+    margin: auto;
+
+}
+.f{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    bottom: 700px;
+    right: 500px;
+    margin: auto;
+}
+.addPage{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    bottom: 700px;
+    right: 1400px;
+    margin: auto;
+}
+
+
+body{
+    background-image:url(../images/22.jpg);
+}
+
+
+
+
+        
